@@ -1,10 +1,10 @@
 # CoA Nameplates
 
-> **[Download](https://github.com/uncle-bone/Nameplates/releases/latest)**
+> **[Download Here!](https://coa-research.unclebone.workers.dev/download/Nameplates)**
 
 CoA Nameplates for Ascension / Conquest Reborn (WoW 3.3.5a).
 
-## Latest package: v1.4.0 — Custom Nameplates & Summons
+## **Current stable release: v1.4.0.** — Custom Nameplates & Summons
 
 Install both folders from this repository into `Interface/AddOns/`:
 
